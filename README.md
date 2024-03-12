@@ -1,6 +1,4 @@
-To create a README file for a GitHub repository, you can follow this template:
 
-```markdown
 # GitHub Profile Search Application
 
 ## Introduction
