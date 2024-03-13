@@ -10,10 +10,10 @@ This project is an interactive GitHub Profile Search application developed using
 - JavaScript
 
 ## Features
-- Search for GitHub profiles by username
-- Display user information such as name, bio, followers, following, and public repositories
-- Display up to 5 repositories of the searched user
-- Clickable links to GitHub repositories
+- Search for GitHub profiles by username.
+- Display user information such as name, bio, followers, following, and public repositories.
+- Display up to 5 repositories of the searched user.
+- Clickable links to GitHub repositories.
 
 ## Installation
 1. Clone the repository:
